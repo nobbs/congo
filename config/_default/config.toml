@@ -45,4 +45,5 @@ summaryLength = 0
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
+  #   { xing = "https://xing.com/profile/username" },
   # ]
